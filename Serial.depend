@@ -1,0 +1,117 @@
+# depslib dependency file v1.0
+1432668778 source:c:\users\matheus\downloads\serial windows threads\main.cpp
+	"global.h"
+
+1433359050 
+
+1433163000 c:\users\matheus\downloads\serial windows threads\global.h
+	<windows.h>
+	<stdio.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+
+1432646585 source:c:\users\matheus\downloads\serial windows threads\porta.cpp
+	<iostream>
+	"global.h"
+
+1433167446 source:c:\users\matheus\downloads\serial windows threads\thread_leitura.cpp
+	"global.h"
+	<time.h>
+	<stdio.h>
+	<string.h>
+	<stdint.h>
+
+1432646585 source:c:\users\matheus\downloads\multiwiicomprotocol\porta.cpp
+	<iostream>
+	"global.h"
+
+1433356451 c:\users\matheus\downloads\multiwiicomprotocol\global.h
+	<windows.h>
+	<stdio.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+
+1433363593 source:c:\users\matheus\downloads\multiwiicomprotocol\main.cpp
+	"MultiWiiManipulation.h"
+	<stdio.h>
+	<windows.h>
+
+1433363593 >
+
+1433355351 c:\users\matheus\downloads\multiwiicomprotocol\multiwiimanipulation.h
+	<stdint.h>
+
+1433363385 source:c:\users\matheus\downloads\multiwiicomprotocol\multiwiimanipulation.cpp
+	"MultiWiiNetwork.h"
+	"MultiWiiManipulation.h"
+	<stdio.h>
+
+1433358001 c:\users\matheus\downloads\multiwiicomprotocol\multiwiinetwork.h
+	<stdint.h>
+	<stdlib.h>
+
+1433359050 source:c:\users\matheus\downloads\multiwiicomprotocol\multiwiinetwork.cpp
+	"MultiWiiProtocol.h"
+	"MultiWiiNetwork.h"
+	<windows.h>
+	<stdio.h>
+
+1433358007 c:\users\matheus\downloads\multiwiicomprotocol\multiwiiprotocol.h
+
+1433358038 source:c:\users\matheus\downloads\multiwiicomprotocol\multiwiiprotocol.cpp
+	"MultiWiiProtocol.h"
+	<stdlib.h>
+
+1433348630 source:c:\users\matheus\downloads\multiwiicomprotocol\thread_leitura.cpp
+	"global.h"
+	<time.h>
+	<stdio.h>
+	<string.h>
+	<stdint.h>
+
+1434372341 source:/home/matheus/Downloads/MultiWiiComProtocol/MultiWiiManipulation.cpp
+	"MultiWiiNetwork.h"
+	"MultiWiiManipulation.h"
+	<stdio.h>
+
+1433358001 /home/matheus/Downloads/MultiWiiComProtocol/MultiWiiNetwork.h
+	<stdint.h>
+	<stdlib.h>
+
+1433355351 /home/matheus/Downloads/MultiWiiComProtocol/MultiWiiManipulation.h
+	<stdint.h>
+
+1434116328 source:/home/matheus/Downloads/MultiWiiComProtocol/MultiWiiProtocol.cpp
+	"MultiWiiProtocol.h"
+	<stdlib.h>
+	<stdio.h>
+
+1433358007 /home/matheus/Downloads/MultiWiiComProtocol/MultiWiiProtocol.h
+
+1434121745 source:/home/matheus/Downloads/MultiWiiComProtocol/main.cpp
+	"MultiWiiManipulation.h"
+	<stdio.h>
+
+1434372311 source:/home/matheus/Downloads/MultiWiiComProtocol/MultiWiiNetwork.cpp
+	"MultiWiiProtocol.h"
+	"MultiWiiNetwork.h"
+	<stdio.h>
+	<errno.h>
+	<iostream>
+	<cstdlib>
+	<stdint.h>
+	<time.h>
+	<unistd.h>
+	<string.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<termios.h>
+	<sys/time.h>
+	<sys/resource.h>
+	<pthread.h>
+

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="DebugWin32" />
+	<File name="MultiWiiManipulation.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="2681" topLine="39" />
+	</File>
+	<File name="MultiWiiManipulation.h" open="1" top="0" tabpos="2">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="MultiWiiNetwork.cpp" open="1" top="1" tabpos="7">
+		<Cursor position="3973" topLine="110" />
+	</File>
+	<File name="MultiWiiNetwork.h" open="1" top="0" tabpos="6">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="MultiWiiProtocol.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="1133" topLine="0" />
+	</File>
+	<File name="MultiWiiProtocol.h" open="1" top="0" tabpos="4">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="global.h" open="1" top="0" tabpos="8">
+		<Cursor position="737" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="3367" topLine="106" />
+	</File>
+</CodeBlocks_layout_file>
